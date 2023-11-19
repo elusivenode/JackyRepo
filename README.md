@@ -11,4 +11,4 @@ Process all the numbers in the file, multiplying by the user's input.
 For example, file has 3,6,2.  User enters 4.  Program to print:
 Input: 3  Output: 12
 Input: 6  Output: 24
-Input: 2  Output: 4 
+Input: 2  Output: 8
