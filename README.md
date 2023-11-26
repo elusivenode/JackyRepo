@@ -15,9 +15,11 @@ Input: 2  Output: 8
 
 ## Problem 3
 Get some information for the user.  Display a summary back to the user
-# Display
+      
+### Display
 This is Jack's questionnaire program!
-What is your name? *capture this input*
-How old are you? *capture this input*
-# Display
+What is your name? *capture this input*  
+How old are you? *capture this input*  
+
+### Display
 Hello *user's name*.  Nice to meet to you. You are *user's age* years old.
