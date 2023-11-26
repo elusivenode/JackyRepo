@@ -16,10 +16,12 @@ Input: 2  Output: 8
 ## Problem 3
 Get some information for the user.  Display a summary back to the user
       
-#### *- display question to the user on the screen* 
-This is Jack's questionnaire program!
-What is your name? *capture this input*  
-How old are you? *capture this input*  
+* Display question to the user on the screen
+    
+    This is Jack's questionnaire program! 
+    What is your name? *capture this input* 
+    How old are you? *capture this input*  
 
-#### *- display a summary message to the user on the screen*
-Hello *user's name*.  Nice to meet to you. You are *user's age* years old.
+* Display a summary message to the user on the screen 
+
+    Hello *user's name*.  Nice to meet to you. You are *user's age* years old.
