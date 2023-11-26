@@ -19,7 +19,9 @@ Get some information for the user.  Display a summary back to the user
 * Display question to the user on the screen
     
     This is Jack's questionnaire program! 
-    What is your name? *capture this input* 
+
+    What is your name? *capture this input*
+
     How old are you? *capture this input*  
 
 * Display a summary message to the user on the screen 
