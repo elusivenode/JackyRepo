@@ -27,3 +27,14 @@ Get some information for the user.  Display a summary back to the user
 * Display a summary message to the user on the screen 
 
     Hello *user's name*.  Nice to meet to you. You are *user's age* years old.
+
+## Problem 4
+Ask the user for their age in years and months.  Display back their approx age in seconds.
+      
+* Ask the user for their age
+
+  Enter your age in years and months with 1 space between (eg. 12 6): *capture this input*
+
+* Display a summary message back to the user on the screen 
+
+  You have been alive for approximately {work this out} seconds.
